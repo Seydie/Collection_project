@@ -1,0 +1,13 @@
+C:\Users\kelyv\Desktop\werkmak\Collection_project\Collection_project\bin\Debug\Collection_project.exe.config
+C:\Users\kelyv\Desktop\werkmak\Collection_project\Collection_project\bin\Debug\Collection_project.exe
+C:\Users\kelyv\Desktop\werkmak\Collection_project\Collection_project\bin\Debug\Collection_project.pdb
+C:\Users\kelyv\Desktop\werkmak\Collection_project\Collection_project\obj\Debug\Collection_project.Properties.Resources.resources
+C:\Users\kelyv\Desktop\werkmak\Collection_project\Collection_project\obj\Debug\Collection_project.csproj.GenerateResource.Cache
+C:\Users\kelyv\Desktop\werkmak\Collection_project\Collection_project\obj\Debug\Collection_project.csproj.CoreCompileInputs.cache
+C:\Users\kelyv\Desktop\werkmak\Collection_project\Collection_project\obj\Debug\Collection_project.exe
+C:\Users\kelyv\Desktop\werkmak\Collection_project\Collection_project\obj\Debug\Collection_project.pdb
+C:\Users\kelyv\Desktop\werkmak\Collection_project\Collection_project\obj\Debug\Collection_project.collection_form.resources
+C:\Users\kelyv\Desktop\werkmak\Collection_project\Collection_project\bin\Debug\Collection_project.exe.manifest
+C:\Users\kelyv\Desktop\werkmak\Collection_project\Collection_project\bin\Debug\Collection_project.application
+C:\Users\kelyv\Desktop\werkmak\Collection_project\Collection_project\obj\Debug\Collection_project.exe.manifest
+C:\Users\kelyv\Desktop\werkmak\Collection_project\Collection_project\obj\Debug\Collection_project.application
