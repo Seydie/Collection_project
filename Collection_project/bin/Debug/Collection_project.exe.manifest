@@ -42,24 +42,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Collection_project.exe" size="9696">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Collection_project.exe" size="10720">
       <assemblyIdentity name="Collection_project" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>s8WRWMssz7En/nsV87MpnagYEhaL9mgjtrp4iicSDkw=</dsig:DigestValue>
+        <dsig:DigestValue>vvN7mrPbhIX0F6CWsQggRkDosaFrrvMOWol+7Ysm5ZM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Collection_project.exe.config" size="950">
+  <file name="Collection_project.exe.config" size="1118">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Rt5V84R73ctXilPRCnIgyefRFWwuuW9/V1TeQyKKFqg=</dsig:DigestValue>
+      <dsig:DigestValue>6CDZeEGqz2fUAXNS7yoz1VgheDWY3L6dcAqcwGtNnOE=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

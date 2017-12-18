@@ -14,20 +14,31 @@ namespace Collection_project
     {
         public collection_form()
         {
+            Properties.Settings.Default.Reload();
             InitializeComponent();
+            System.Collections.Specialized.StringCollection items = Properties.Settings.Default.test;
+            foreach(string item in items)
+            {
+                listBox1.Items.Add(item);
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Properties.Settings.Default.Reload();
-            Properties.Settings.Default.test = test.Text;
-            label.Text = Properties.Settings.Default.test;
+            listBox1.Items.Add(test.Text);
+            for(int i = 0; i < listBox1.Items.Count; i++) {
+                //Properties.Settings.Default.test.Add(listBox1.Items[i].ToString());
+            }
         }
 
         private void collection_form_FormClosed(object sender, FormClosedEventArgs e)
         {
-            Properties.Settings.Default.Upgrade();
             Properties.Settings.Default.Save();
+        }
+
+        private void bremove_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.RemoveAt(0);
         }
     }
 }

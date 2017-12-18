@@ -11,3 +11,4 @@ C:\Users\kelyv\Desktop\werkmak\Collection_project\Collection_project\bin\Debug\C
 C:\Users\kelyv\Desktop\werkmak\Collection_project\Collection_project\bin\Debug\Collection_project.application
 C:\Users\kelyv\Desktop\werkmak\Collection_project\Collection_project\obj\Debug\Collection_project.exe.manifest
 C:\Users\kelyv\Desktop\werkmak\Collection_project\Collection_project\obj\Debug\Collection_project.application
+C:\Users\kelyv\Desktop\werkmak\Collection_project\Collection_project\obj\Debug\Collection_project.csprojResolveAssemblyReference.cache
